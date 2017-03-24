@@ -1,0 +1,48 @@
+marcin@marcin-ThinkPad-W520:~/Desktop/Xiaomi_Yi-master/Standalone_scripts$ python Camera_get.py
+{ "camera_clock": "2016-12-13 13:58:50" }
+ { "video_standard": "PAL" }
+ { "app_status": "idle" }
+ { "video_resolution": "1920x1080 48P 16:9" }
+ { "video_stamp": "off" }
+ { "video_quality": "S.Fine" }
+ { "timelapse_video": "5" }
+ { "capture_mode": "precise quality" }
+ { "photo_size": "16M (4608x3456 4:3)" }
+ { "photo_stamp": "off" }
+ { "photo_quality": "S.Fine" }
+ { "timelapse_photo": "off" }
+ { "preview_status": "on" }
+ { "buzzer_volume": "low" }
+ { "buzzer_ring": "off" }
+ { "capture_default_mode": "precise quality" }
+ { "precise_cont_time": "0.5 sec" }
+ { "burst_capture_number": "7 p \/ s" }
+ { "wifi_ssid": "YDXJ_1066090" }
+ { "wifi_password": "1234567890" }
+ { "led_mode": "all enable" }
+ { "meter_mode": "center" }
+ { "sd_card_status": "insert" }
+ { "video_output_dev_type": "hdmi" }
+ { "sw_version": "YDXJv22L_1.2.13_build-20150906142851_b1049_i841_s1120" }
+ { "hw_version": "YDXJ_v23L" }
+ { "dual_stream_status": "on" }
+ { "streaming_status": "on" }
+ { "precise_cont_capturing": "off" }
+ { "piv_enable": "off" }
+ { "auto_low_light": "on" }
+ { "loop_record": "off" }
+ { "warp_enable": "on" }
+ { "support_auto_low_light": "off" }
+ { "precise_selftime": "5s" }
+ { "precise_self_running": "off" }
+ { "auto_power_off": "off" }
+ { "serial_number": "Z23L629AUS1066090" }
+ { "system_mode": "record" }
+ { "system_default_mode": "record" }
+ { "start_wifi_while_booted": "off" }
+ { "quick_record_time": "0" }
+
+_____________________________________________
+
+press CTRL+C to close
+
